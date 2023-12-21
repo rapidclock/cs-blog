@@ -1,6 +1,6 @@
 # Summary
 
-[Introduction](./blog/intro.md)
+[Introduction](blog/intro.md)
 
 # Data Structures
 - [Lists]()

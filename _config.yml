@@ -1,7 +1,7 @@
 title: CS Blog
 description: A CS Blog.
 theme: just-the-docs
-
+baseurl: "/cs-blog"
 url: https://blog.rapidclock.dev
 
 repository: just-the-docs/just-the-docs # for github-metadata

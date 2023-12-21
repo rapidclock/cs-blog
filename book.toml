@@ -1,6 +1,19 @@
 [book]
+title = "cs-blog"
 authors = ["rapidclock"]
 language = "en"
 multilingual = false
 src = "src"
-title = "cs-blog"
+
+[build]
+create-missing = false
+
+[rust]
+edition = "2021"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "ayu"
+
+[output.html.search]
+limit-results = 15
